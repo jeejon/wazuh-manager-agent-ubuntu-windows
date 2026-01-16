@@ -27,3 +27,7 @@ Enter agent IP address
 Copy the generated key shown (we will use this on Windows agent)
 
 Exit manage_agents.
+
+## Step 3 View logs generated
+
+sudo tail -f /var/ossec/logs/ossec.log
