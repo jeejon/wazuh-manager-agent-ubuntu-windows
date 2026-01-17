@@ -2,7 +2,7 @@
 # Wazuh SIEM Deployment: Ubuntu Server & Windows Agent
 
 ## 📌 Project Overview
-This project demonstrates the deployment and configuration of a **Security Information and Event Management (SIEM)** solution using **0**.
+This project demonstrates the deployment and configuration of a **Security Information and Event Management (SIEM)** solution using **#0**.
 
 The setup consists of:
 - **Wazuh Manager** installed on **#1**
